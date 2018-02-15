@@ -1,0 +1,143 @@
+[Main Parameters]
+Class Name=TDatasetInfo
+Vector Name=TDatases
+Class File=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Params\DatasetInfo.cpp
+Database Table Name=DATASETS
+Member Table=Table
+Default Constructor=1
+Destructor=0
+Copy Constructor=1
+Clear Method=1
+Assign All Method=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+Create Vector=1
+Database Support=1
+Members Count=9
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+[Member1]
+Member Number=1
+Member Type=int
+Member Name=m_nDatasetID
+Property Name=DatasetID
+Use Reference=0
+Clear Value=0
+Database Field=DATASET_ID
+Member Field=FldDatasetID
+Is Database Key=1
+[Member2]
+Member Number=2
+Member Type=String
+Member Name=m_strName
+Property Name=Name
+Use Reference=1
+Clear Value=""
+Database Field=NAME
+Member Field=FldName
+Is Database Key=0
+[Member3]
+Member Number=3
+Member Type=String
+Member Name=m_strURL
+Property Name=URL
+Use Reference=1
+Clear Value=""
+Database Field=URL
+Member Field=FldURL
+Is Database Key=0
+[Member4]
+Member Number=4
+Member Type=String
+Member Name=m_strStructure
+Property Name=Structure
+Use Reference=1
+Clear Value=""
+Database Field=STRUCTURE
+Member Field=FldStructure
+Is Database Key=0
+[Member5]
+Member Number=5
+Member Type=TContacts
+Member Name=m_vContacts
+Property Name=Contacts
+Use Reference=0
+Clear Value=
+Database Field=
+Member Field=
+Is Database Key=0
+[Member6]
+Member Number=6
+Member Type=TDataPoints
+Member Name=m_vPoints
+Property Name=Points
+Use Reference=0
+Clear Value=
+Database Field=
+Member Field=
+Is Database Key=0
+[Member7]
+Member Number=7
+Member Type=String
+Member Name=m_strString
+Property Name=Username
+Use Reference=1
+Clear Value=""
+Database Field=USERNAME
+Member Field=FldUsername
+Is Database Key=0
+[Member8]
+Member Number=8
+Member Type=String
+Member Name=m_strPassword
+Property Name=Password
+Use Reference=1
+Clear Value=""
+Database Field=PASSWD
+Member Field=FldPassword
+Is Database Key=0
+[Member9]
+Member Number=9
+Member Type=String
+Member Name=m_strDescription
+Property Name=Description
+Use Reference=1
+Clear Value=""
+Database Field=DESCRIPTION
+Member Field=FldDescription
+Is Database Key=0

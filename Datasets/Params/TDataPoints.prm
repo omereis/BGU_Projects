@@ -1,0 +1,109 @@
+[Main Parameters]
+Class Name=TDataPoint
+Vector Name=TDataPoints
+Class File=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Params\DataPoints.cpp
+Database Table Name=DATASETS_POINTS
+Member Table=Table
+Default Constructor=1
+Destructor=0
+Copy Constructor=1
+Clear Method=1
+Assign All Method=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+Create Vector=1
+Database Support=1
+Members Count=7
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+[Member1]
+Member Number=1
+Member Type=int
+Member Name=m_nPointID
+Property Name=PointID
+Use Reference=0
+Clear Value=0
+Database Field=POINT_ID
+Member Field=FldPointID
+Is Database Key=1
+[Member2]
+Member Number=2
+Member Type=int
+Member Name=m_nObjectID
+Property Name=ObjectID
+Use Reference=0
+Clear Value=0
+Database Field=OBJECT_ID
+Member Field=FldObjectID
+Is Database Key=0
+[Member3]
+Member Number=3
+Member Type=int
+Member Name=m_nDatasetID
+Property Name=DatasetID
+Use Reference=0
+Clear Value=0
+Database Field=FATASET_ID
+Member Field=FldDatasetID
+Is Database Key=0
+[Member4]
+Member Number=4
+Member Type=double
+Member Name=m_dLong
+Property Name=Long
+Use Reference=0
+Clear Value=0.0
+Database Field=LONG
+Member Field=FldLong
+Is Database Key=0
+[Member5]
+Member Number=5
+Member Type=double
+Member Name=m_dLat
+Property Name=Lat
+Use Reference=0
+Clear Value=0.0
+Database Field=LAT
+Member Field=FldLat
+Is Database Key=0
+[Member6]
+Member Number=6
+Member Type=double
+Member Name=m_d
+Property Name=Alt
+Use Reference=0
+Clear Value=0.0
+Database Field=ALT
+Member Field=FldAlt
+Is Database Key=0
+[Member7]
+Member Number=7
+Member Type=TDateTime
+Member Name=m_dtPointTime
+Property Name=PointTime
+Use Reference=1
+Clear Value=
+Database Field=PT_TIME
+Member Field=FldPointTime
+Is Database Key=0
+[Member8]
+Member Number=8
+Member Type=TDateTime
+Member Name=m_dtPointTime
+Property Name=PointTime
+Use Reference=1
+Clear Value=
+Database Field=PT_TIME
+Member Field=FldPointTime
+Is Database Key=0

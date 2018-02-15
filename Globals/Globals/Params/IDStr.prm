@@ -1,0 +1,79 @@
+[Main Parameters]
+Class Name=TIDStr
+Vector Name=TIDStrings
+Class File=D:\Omer\Projects\Globals\IDStr.cpp
+Database Table Name=
+Member Table=Table
+Default Constructor=1
+Destructor=0
+Copy Constructor=1
+Clear Method=1
+Assign All Method=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+Create Vector=1
+Database Support=1
+Members Count=5
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+[Member1]
+Member Number=1
+Member Type=int
+Member Name=m_nID
+Property Name=ID
+Use Reference=0
+Clear Value=0
+Database Field=
+Member Field=FldID
+Is Database Key=1
+[Member2]
+Member Number=2
+Member Type=String
+Member Name=m_strName
+Property Name=Name
+Use Reference=1
+Clear Value=
+Database Field=
+Member Field=FldName
+Is Database Key=0
+[Member3]
+Member Number=3
+Member Type=String
+Member Name=m_strTable
+Property Name=Table
+Use Reference=1
+Clear Value=
+Database Field=
+Member Field=Table
+Is Database Key=0
+[Member4]
+Member Number=4
+Member Type=String
+Member Name=m_strFldID
+Property Name=FldID
+Use Reference=1
+Clear Value=
+Database Field=
+Member Field=FldID
+Is Database Key=0
+[Member5]
+Member Number=5
+Member Type=String
+Member Name=m_strFldStr
+Property Name=FldStr
+Use Reference=1
+Clear Value=
+Database Field=
+Member Field=FldStr
+Is Database Key=0

@@ -1,0 +1,70 @@
+[Main Parameters]
+Class Name=TFileInfo
+Vector Name=TFiles
+Class File=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Params\FileInfo.cpp
+Database Table Name=T_FILES
+Member Table=Table
+Default Constructor=1
+Destructor=0
+Copy Constructor=1
+Clear Method=1
+Assign All Method=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+Create Vector=1
+Database Support=1
+Members Count=5
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+[Member1]
+Member Number=1
+Member Type=int
+Member Name=m_nFileID
+Property Name=FileID
+Use Reference=0
+Clear Value=0
+Database Field=FILE_ID
+Member Field=FldID
+Is Database Key=1
+[Member2]
+Member Number=2
+Member Type=int
+Member Name=m_nDatasetID
+Property Name=DatasetID
+Use Reference=0
+Clear Value=0
+Database Field=DATASET_ID
+Member Field=FldDatasetID
+Is Database Key=0
+[Member3]
+Member Number=3
+Member Type=int
+Member Name=m_nSize
+Property Name=Size
+Use Reference=0
+Clear Value=0
+Database Field=SIZE
+Member Field=FldSize
+Is Database Key=0
+[Member4]
+Member Number=4
+Member Type=String
+Member Name=m_strFileName
+Property Name=FileName
+Use Reference=1
+Clear Value=""
+Database Field=FILE_NAME
+Member Field=FldFileName
+Is Database Key=0
+[Member5]
+Member Number=5
+Member Type=String
+Member Name=m_strComment
+Property Name=Comment
+Use Reference=1
+Clear Value=""
+Database Field=COMMENT
+Member Field=FldComment
+Is Database Key=0

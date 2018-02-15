@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/08/30 10:56:04.596.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Unit1.cpp=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DMSets.cpp</Transaction>
+    <Transaction>2011/08/30 10:56:04.596.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Unit1.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DMSets.h</Transaction>
+    <Transaction>2011/08/30 10:56:04.596.dfm,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DMSets.dfm</Transaction>
+    <Transaction>2011/08/30 10:56:14.581.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DMSets.cpp=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Main.cpp</Transaction>
+    <Transaction>2011/08/30 10:56:14.581.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DMSets.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Main.h</Transaction>
+    <Transaction>2011/08/30 10:56:14.581.dfm,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DMSets.dfm=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Main.dfm</Transaction>
+    <Transaction>2011/08/30 10:56:21.268.cbproj,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Project1.cbproj=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DMSets.cbproj</Transaction>
+    <Transaction>2011/08/31 15:34:38.735.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\DataPoints.cpp=</Transaction>
+    <Transaction>2011/08/31 15:47:20.115.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\File1.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Globals\IseTypes.h</Transaction>
+    <Transaction>2011/09/05 14:48:14.137.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL.cpp=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditContact.cpp</Transaction>
+    <Transaction>2011/09/05 14:48:14.137.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditContact.h</Transaction>
+    <Transaction>2011/09/05 14:48:14.137.dfm,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL.dfm=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditContact.dfm</Transaction>
+    <Transaction>2011/09/05 14:48:20.308.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.cpp=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditDataset.cpp</Transaction>
+    <Transaction>2011/09/05 14:48:20.308.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditDataset.h</Transaction>
+    <Transaction>2011/09/05 14:48:20.308.dfm,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.dfm=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditDataset.dfm</Transaction>
+    <Transaction>2011/09/14 07:46:22.671.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.cpp=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\ImportGeoLife.cpp</Transaction>
+    <Transaction>2011/09/14 07:46:22.671.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\ImportGeoLife.h</Transaction>
+    <Transaction>2011/09/14 07:46:22.671.dfm,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.dfm=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\ImportGeoLife.dfm</Transaction>
+    <Transaction>2011/09/22 17:38:26.984.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Unit1.cpp=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\ShowProgress.cpp</Transaction>
+    <Transaction>2011/09/22 17:38:27.000.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Unit1.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\ShowProgress.h</Transaction>
+    <Transaction>2011/09/22 17:38:27.000.dfm,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Unit1.dfm=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\ShowProgress.dfm</Transaction>
+    <Transaction>2011/10/03 12:50:04.312.cpp,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.cpp=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditContent.cpp</Transaction>
+    <Transaction>2011/10/03 12:50:04.312.h,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.h=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditContent.h</Transaction>
+    <Transaction>2011/10/03 12:50:04.312.dfm,C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\OKCANCL2.dfm=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\EditContent.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

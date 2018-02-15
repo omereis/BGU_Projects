@@ -1,0 +1,104 @@
+[Main Parameters]
+Class Name=TContactInfo
+Vector Name=TContacts
+Class File=C:\Documents and Settings\omereis\My Documents\RAD Studio\Projects\Datasets\Params\ContactInfo.cpp
+Database Table Name=T_CONTACTS
+Member Table=Table
+Default Constructor=1
+Destructor=0
+Copy Constructor=1
+Clear Method=1
+Assign All Method=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+Create Vector=1
+Database Support=1
+Members Count=6
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+equation (=) operator=1
+inequation (!=) operator=1
+Assignment (=) Operator=1
+[Member1]
+Member Number=1
+Member Type=int
+Member Name=m_nID
+Property Name=ID
+Use Reference=0
+Clear Value=0
+Database Field=CONTACT_ID
+Member Field=FldID
+Is Database Key=1
+[Member2]
+Member Number=2
+Member Type=int
+Member Name=m_nDatasetID
+Property Name=DatasetID
+Use Reference=0
+Clear Value=0
+Database Field=DATASET_ID
+Member Field=FldDatasetID
+Is Database Key=0
+[Member3]
+Member Number=3
+Member Type=String
+Member Name=m_strName
+Property Name=Name
+Use Reference=1
+Clear Value=""
+Database Field=NAME
+Member Field=FldName
+Is Database Key=0
+[Member4]
+Member Number=4
+Member Type=String
+Member Name=m_strEmail
+Property Name=Email
+Use Reference=1
+Clear Value=""
+Database Field=EMAIL
+Member Field=FldEmail
+Is Database Key=0
+[Member5]
+Member Number=5
+Member Type=String
+Member Name=m_strPhone
+Property Name=Phone
+Use Reference=1
+Clear Value=""
+Database Field=PHONE
+Member Field=FldPhone
+Is Database Key=0
+[Member6]
+Member Number=6
+Member Type=String
+Member Name=m_strComments
+Property Name=Comments
+Use Reference=1
+Clear Value=""
+Database Field=COMMENTS
+Member Field=FldComments
+Is Database Key=0
